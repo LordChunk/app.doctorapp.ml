@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,IAAI,AAAC,CACD,QAAQ,CAAE,KAAK,CAClB,AAED,AAAe,SAAN,CAAC,IAAI,CAAC,UAAU,AAAC,CACtB,OAAO,CAAE,IAAI,CACb,aAAa,CAAE,IAAI,CAStB,AAXD,AAGI,SAHK,CAAC,IAAI,CAAC,UAAU,CAGrB,KAAK,AAAC,CACF,MAAM,CAAE,MAAM,CACd,KAAK,CAAE,eAAe,CACtB,MAAM,CAAE,eAAe,CACvB,OAAO,CAAE,GAAG,CAEZ,UAAU,CAAE,MAAM,CACrB,AAIL,AAAA,KAAK,CAAA,AAAA,IAAC,CAAD,MAAC,AAAA,CAAa,CACf,MAAM,CAAE,eAAe,CAC1B",
+    "sources": [
+        "../scss/register4.scss",
+        "../scss/colour.scss"
+    ],
+    "names": [],
+    "file": "register4.css"
+}

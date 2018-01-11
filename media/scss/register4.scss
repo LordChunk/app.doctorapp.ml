@@ -1,0 +1,22 @@
+@import "colour";
+body {
+    overflow: unset;
+}
+
+.form_div form .pin_input {
+    display: flex;
+    margin-bottom: 80px;
+    input {
+        margin: 0 10px;
+        width: 40px !important;
+        height: 40px !important;
+        padding: 8px;
+
+        text-align: center;
+    }
+}
+
+
+input[type=submit] {
+    margin: 10px !important;
+}

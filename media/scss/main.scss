@@ -4,7 +4,7 @@
 
 //Temporary APP CSS
 p, a {
-  font-weight: 400;
+  font-weight: normal !important;
   color: $text_colour;
 }
 
@@ -25,6 +25,7 @@ p, a {
   border-radius: 50vh;
   color: $text_colour;
   font-size: x-large;
+  font-weight: bold;
 
   //Set common width for all input buttons
   width: 60vw;

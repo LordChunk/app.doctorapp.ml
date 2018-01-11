@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,aAAa,AAAC,CACV,MAAM,CAAE,GAAG,CAAC,KAAK,CCaE,OAAO,CDZ7B",
+    "sources": [
+        "../scss/register3.scss",
+        "../scss/colour.scss"
+    ],
+    "names": [],
+    "file": "register3.css"
+}

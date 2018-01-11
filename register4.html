@@ -28,21 +28,24 @@
 		<div class="container">
 			<div class="block no_block">
                 <div class="title">
-                        <h1>Good work so far!</h1>
-                        <h2>We are almost done!</h2>
+                        <h1>One last thing!</h1>
+                        <h2>Use a PIN-code to protect your privacy!</h2>
                 </div>
 
-                <p>Doctor App also recommends to add a photo of yourself for your medical profile. Make sure to use a photo on which you are clearly visible.</p>
-
-                <p>To add a photo, tap the icon down below. You can also skip the photo setup by tapping on the accept button without choosing a photo.</p>
+                <p>This code will be used to sign in whenever you start the app. This makes sure other people can not see your medical history. You can also choose to skip the PIN setup.</p>
             </div>
         
             <div class="form_div">
-                <form action="/register4" method="POST">
-                    <img src="/media/images/icons/patient-gray.svg" alt="Patient Icon">
-                    </img>  
-                
-                    <input type="submit" value="Accept">
+                <form action="/home_overlay" method="POST">
+                    <div class="pin_input">
+                        <input type="text">
+                        <input type="text">
+                        <input type="text">
+                        <input type="text">
+                    </div>
+
+                    <input type="submit" value="Save PIN">
+                    <input type="submit" value="Skip PIN">
                 </form>
             </div>
 		</div>

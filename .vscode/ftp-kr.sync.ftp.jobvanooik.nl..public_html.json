@@ -5,6 +5,17 @@
     "files": [
         {
             "type": "-",
+            "name": ".htaccess",
+            "size": 231
+        },
+        {
+            "type": "d",
+            "name": ".vscode",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
             "name": "400.shtml",
             "size": 515
         },
@@ -36,8 +47,18 @@
         },
         {
             "type": "-",
+            "name": "favicon.ico",
+            "size": 16958
+        },
+        {
+            "type": "-",
             "name": "index.html",
             "size": 1664
+        },
+        {
+            "type": "-",
+            "name": "login.html",
+            "size": 1973
         },
         {
             "type": "-",
@@ -54,16 +75,6 @@
                     "name": "css",
                     "size": 4096,
                     "files": [
-                        {
-                            "type": "-",
-                            "name": "app.css",
-                            "size": 104
-                        },
-                        {
-                            "type": "-",
-                            "name": "app.css.map",
-                            "size": 257
-                        },
                         {
                             "type": "-",
                             "name": "colour.css",
@@ -97,32 +108,27 @@
                         {
                             "type": "-",
                             "name": "login.css",
-                            "size": 246
+                            "size": 156
                         },
                         {
                             "type": "-",
                             "name": "login.css.map",
-                            "size": 515
+                            "size": 399
                         },
                         {
                             "type": "-",
                             "name": "main.css",
-                            "size": 3499
+                            "size": 3651
                         },
                         {
                             "type": "-",
                             "name": "main.css.map",
-                            "size": 5388
+                            "size": 5626
                         },
                         {
                             "type": "-",
-                            "name": "nav.css",
-                            "size": 1309
-                        },
-                        {
-                            "type": "-",
-                            "name": "nav.css.map",
-                            "size": 2411
+                            "name": "start.css.map",
+                            "size": 348
                         },
                         {
                             "type": "-",
@@ -131,8 +137,23 @@
                         },
                         {
                             "type": "-",
-                            "name": "start.css.map",
-                            "size": 348
+                            "name": "register.css",
+                            "size": 613
+                        },
+                        {
+                            "type": "-",
+                            "name": "register.css.map",
+                            "size": 1192
+                        },
+                        {
+                            "type": "-",
+                            "name": "register2.css.map",
+                            "size": 397
+                        },
+                        {
+                            "type": "-",
+                            "name": "register2.css",
+                            "size": 187
                         }
                     ]
                 },
@@ -232,7 +253,7 @@
                         {
                             "type": "-",
                             "name": "colour.scss",
-                            "size": 427
+                            "size": 464
                         },
                         {
                             "type": "-",
@@ -247,12 +268,12 @@
                         {
                             "type": "-",
                             "name": "login.scss",
-                            "size": 375
+                            "size": 194
                         },
                         {
                             "type": "-",
                             "name": "main.scss",
-                            "size": 6793
+                            "size": 7056
                         },
                         {
                             "type": "-",
@@ -262,42 +283,26 @@
                         {
                             "type": "-",
                             "name": "register.scss",
-                            "size": 59
+                            "size": 982
                         },
                         {
                             "type": "-",
                             "name": "start.scss",
                             "size": 386
+                        },
+                        {
+                            "type": "-",
+                            "name": "register2.scss",
+                            "size": 207
                         }
                     ]
                 }
             ]
         },
         {
-            "type": "d",
-            "name": ".vscode",
-            "size": 0,
-            "files": []
-        },
-        {
             "type": "-",
-            "name": "app.html",
-            "size": 1669
-        },
-        {
-            "type": "-",
-            "name": "login.html",
-            "size": 1985
-        },
-        {
-            "type": "-",
-            "name": ".htaccess",
-            "size": 231
-        },
-        {
-            "type": "-",
-            "name": "favicon.ico",
-            "size": 16958
+            "name": "register.html",
+            "size": 2170
         },
         {
             "type": "-",
@@ -306,8 +311,13 @@
         },
         {
             "type": "-",
-            "name": "register.html",
-            "size": 1537
+            "name": "register2.html",
+            "size": 3604
+        },
+        {
+            "type": "-",
+            "name": "register3.html",
+            "size": 1953
         }
     ]
 }
