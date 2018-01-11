@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Custom tab colour -->
+    <meta name="theme-color" content="#A4D8CC">
+    <!--Fix broken icons -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!--Search engine meta tags-->
+    <meta name="author" content="Job van Ooik" />
+    <meta name="robots" content="index, follow" />
+
+    <!--Minimal CSS -->
+    <link rel="stylesheet" type="text/css" href="/media/css/start.css" />
+
+    <!--Import jQuery before js with jQuery files-->
+    <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script> -->
+    <script src="/media/js/jquery.js"></script>
+
+    <!--My own javascript stuff -->
+    <script async src="/media/js/loader.js" type="text/javascript"></script>
+    <title>Doctor App</title>
+</head>
+<body>
+	<main>
+		<div class="container">
+			<div class="block no_block">
+                <div class="title">
+                        <h1>Great!</h1>
+                        <h2>Now we can go to the next step!</h2>
+                </div>
+
+                <p>Doctor App can use the following optional data for a medical profile. We strongly recommend entering your medical information so that emergency services can use it when they need it.</p>
+
+                <div class="form_div">
+                        <form action="/register3" method="POST">
+                            <h2>Personal information</h2>
+
+                            <input type="text" name="First name"placeholder="First name">
+                            <input type="text" name="Surname" placeholder="Surname">
+                            <input type="text" name="DoB" placeholder="Date of Birth">
+                            <input type="text" name="Phone Number" placeholder="Phone number">
+                            
+                            <h2>Address details</h2>
+                            <input type="text" placeholder="Postal code">
+                            <input type="text" placeholder="House number">
+                            <input type="text" placeholder="City">
+
+                            <h2>Medical details</h2>
+                            <input type="text" placeholder="Height">
+                            <input type="text" placeholder="Weight">
+                            <input type="text" placeholder="Bloodtype">
+                            <input type="text" placeholder="Allergies">
+                            <input type="text" placeholder="Medical conditions">
+                            <input type="text" placeholder="Currently in treatment for...">
+
+                            <h2>In case of emergency</h2>
+                            <input type="text" placeholder="Emergency number #1">
+                            <input type="text" placeholder="Emergency number #2">
+
+                            <p>Enter the phone numbers of the people that should be called if something happens to you.</p>
+                            
+                            <p>Your data will be kept safe in our databases, but make sure to watch over your own phone.</p>
+                            <input type="submit" value="Accept">
+                        </form>
+                    </div>
+			</div>
+		</div>
+    </main>
+    <link rel="stylesheet" type="text/css" href="/media/css/register.css" />
+</body>
+</html>

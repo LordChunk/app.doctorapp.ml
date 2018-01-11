@@ -1,0 +1,9 @@
+[Error]
+message: Login authentication failed[530]
+[Stack Trace]
+Error: Login authentication failed[530]
+	at _errorWrap (C:\Users\Job\.vscode\extensions\ruakr.ftp-kr-1.1.7\out\ftp.js:529:16)
+	at Object.<anonymous> (C:\Users\Job\.vscode\extensions\ruakr.ftp-kr-1.1.7\out\ftp.js:634:23)
+	at Generator.throw (<anonymous>)
+	at rejected (C:\Users\Job\.vscode\extensions\ruakr.ftp-kr-1.1.7\out\ftp.js:5:65)
+	at <anonymous>

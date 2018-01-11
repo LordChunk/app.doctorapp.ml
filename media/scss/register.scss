@@ -1,0 +1,56 @@
+@import "colour";
+body {
+    background: $text_colour;
+    * { 
+        color: $text_colour_register;
+    }
+}
+
+//Align left
+.block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    * {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+    }
+}
+
+.title {
+    h2 {
+        font-size: larger;
+    }
+    * {
+    margin: 0;
+    }
+}
+
+.form_div {
+    width: unset;
+    form {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        
+        > * {
+            margin: 10px 0;
+        }
+        input {
+            width: 90vw !important;
+        }
+
+        input[type=text], input[type=password] {
+            background: unset;
+            border: 1px solid $text_colour_register;
+        }
+    
+        input[type=submit] {
+            margin: 35px 0;   
+            display: flex;
+            justify-content: center;
+        }
+    }
+    
+}

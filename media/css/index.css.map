@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,SAAS,AAAC,CACN,UAAU,CAAE,MAAM,CAClB,SAAS,CAAE,OAAO,CASrB,AAXD,AAII,SAJK,CAIL,GAAG,AAAC,CACA,KAAK,CAAE,GAAG,CACb,AANL,AAQI,SARK,CAQL,CAAC,AAAC,CACE,KAAK,CCEC,OAAkB,CDD3B",
+    "sources": [
+        "../scss/index.scss",
+        "../scss/colour.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}

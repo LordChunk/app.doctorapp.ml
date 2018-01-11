@@ -1,0 +1,313 @@
+{
+    "type": "d",
+    "name": "",
+    "size": 4096,
+    "files": [
+        {
+            "type": "-",
+            "name": "400.shtml",
+            "size": 515
+        },
+        {
+            "type": "-",
+            "name": "401.shtml",
+            "size": 515
+        },
+        {
+            "type": "-",
+            "name": "403.shtml",
+            "size": 515
+        },
+        {
+            "type": "-",
+            "name": "404.shtml",
+            "size": 515
+        },
+        {
+            "type": "-",
+            "name": "500.shtml",
+            "size": 515
+        },
+        {
+            "type": "d",
+            "name": "cgi-bin",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "index.html",
+            "size": 1664
+        },
+        {
+            "type": "-",
+            "name": "logo.png",
+            "size": 58118
+        },
+        {
+            "type": "d",
+            "name": "media",
+            "size": 4096,
+            "files": [
+                {
+                    "type": "d",
+                    "name": "css",
+                    "size": 4096,
+                    "files": [
+                        {
+                            "type": "-",
+                            "name": "app.css",
+                            "size": 104
+                        },
+                        {
+                            "type": "-",
+                            "name": "app.css.map",
+                            "size": 257
+                        },
+                        {
+                            "type": "-",
+                            "name": "colour.css",
+                            "size": 50
+                        },
+                        {
+                            "type": "-",
+                            "name": "colour.css.map",
+                            "size": 137
+                        },
+                        {
+                            "type": "-",
+                            "name": "footer.css",
+                            "size": 168
+                        },
+                        {
+                            "type": "-",
+                            "name": "footer.css.map",
+                            "size": 388
+                        },
+                        {
+                            "type": "-",
+                            "name": "index.css",
+                            "size": 134
+                        },
+                        {
+                            "type": "-",
+                            "name": "index.css.map",
+                            "size": 344
+                        },
+                        {
+                            "type": "-",
+                            "name": "login.css",
+                            "size": 246
+                        },
+                        {
+                            "type": "-",
+                            "name": "login.css.map",
+                            "size": 515
+                        },
+                        {
+                            "type": "-",
+                            "name": "main.css",
+                            "size": 3499
+                        },
+                        {
+                            "type": "-",
+                            "name": "main.css.map",
+                            "size": 5388
+                        },
+                        {
+                            "type": "-",
+                            "name": "nav.css",
+                            "size": 1309
+                        },
+                        {
+                            "type": "-",
+                            "name": "nav.css.map",
+                            "size": 2411
+                        },
+                        {
+                            "type": "-",
+                            "name": "start.css",
+                            "size": 144
+                        },
+                        {
+                            "type": "-",
+                            "name": "start.css.map",
+                            "size": 348
+                        }
+                    ]
+                },
+                {
+                    "type": "d",
+                    "name": "images",
+                    "size": 4096,
+                    "files": [
+                        {
+                            "type": "-",
+                            "name": "doctors1.jpg",
+                            "size": 62730
+                        },
+                        {
+                            "type": "-",
+                            "name": "landing.jpg",
+                            "size": 165175
+                        },
+                        {
+                            "type": "-",
+                            "name": "logo.svg",
+                            "size": 1299
+                        },
+                        {
+                            "type": "-",
+                            "name": "logo_white.svg",
+                            "size": 1279
+                        }
+                    ]
+                },
+                {
+                    "type": "d",
+                    "name": "includes",
+                    "size": 4096,
+                    "files": [
+                        {
+                            "type": "-",
+                            "name": "header.html",
+                            "size": 1899
+                        }
+                    ]
+                },
+                {
+                    "type": "d",
+                    "name": "js",
+                    "size": 4096,
+                    "files": [
+                        {
+                            "type": "-",
+                            "name": "jquery.js",
+                            "size": 86661
+                        },
+                        {
+                            "type": "-",
+                            "name": "loader.js",
+                            "size": 1521
+                        },
+                        {
+                            "type": "d",
+                            "name": "src",
+                            "size": 4096,
+                            "files": [
+                                {
+                                    "type": "-",
+                                    "name": "ajaxPageLoader.js",
+                                    "size": 2027
+                                },
+                                {
+                                    "type": "-",
+                                    "name": "main.js",
+                                    "size": 55
+                                },
+                                {
+                                    "type": "-",
+                                    "name": "nav.js",
+                                    "size": 1119
+                                },
+                                {
+                                    "type": "-",
+                                    "name": "smoothScroll.js",
+                                    "size": 1721
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "d",
+                    "name": "scss",
+                    "size": 4096,
+                    "files": [
+                        {
+                            "type": "-",
+                            "name": "app.scss",
+                            "size": 85
+                        },
+                        {
+                            "type": "-",
+                            "name": "colour.scss",
+                            "size": 427
+                        },
+                        {
+                            "type": "-",
+                            "name": "footer.scss",
+                            "size": 238
+                        },
+                        {
+                            "type": "-",
+                            "name": "index.scss",
+                            "size": 174
+                        },
+                        {
+                            "type": "-",
+                            "name": "login.scss",
+                            "size": 375
+                        },
+                        {
+                            "type": "-",
+                            "name": "main.scss",
+                            "size": 6793
+                        },
+                        {
+                            "type": "-",
+                            "name": "nav.scss",
+                            "size": 3383
+                        },
+                        {
+                            "type": "-",
+                            "name": "register.scss",
+                            "size": 59
+                        },
+                        {
+                            "type": "-",
+                            "name": "start.scss",
+                            "size": 386
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "d",
+            "name": ".vscode",
+            "size": 0,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "app.html",
+            "size": 1669
+        },
+        {
+            "type": "-",
+            "name": "login.html",
+            "size": 1985
+        },
+        {
+            "type": "-",
+            "name": ".htaccess",
+            "size": 231
+        },
+        {
+            "type": "-",
+            "name": "favicon.ico",
+            "size": 16958
+        },
+        {
+            "type": "-",
+            "name": "signup.html",
+            "size": 1177
+        },
+        {
+            "type": "-",
+            "name": "register.html",
+            "size": 1537
+        }
+    ]
+}

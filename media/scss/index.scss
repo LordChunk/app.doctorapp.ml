@@ -1,0 +1,14 @@
+@import "colour";
+
+.no_block {
+    text-align: center;
+    font-size: x-large;
+
+    img {
+        width: 60%;
+    }
+
+    a {
+        color: $text_colour;
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "type": "d",
+    "name": "",
+    "size": 4096,
+    "files": [
+        {
+            "type": "-",
+            "name": ".htaccess",
+            "size": 370
+        },
+        {
+            "type": "-",
+            "name": "400.shtml",
+            "size": 515
+        },
+        {
+            "type": "-",
+            "name": "401.shtml",
+            "size": 515
+        },
+        {
+            "type": "-",
+            "name": "403.shtml",
+            "size": 515
+        },
+        {
+            "type": "-",
+            "name": "404.shtml",
+            "size": 515
+        },
+        {
+            "type": "-",
+            "name": "500.shtml",
+            "size": 515
+        },
+        {
+            "type": "d",
+            "name": "cgi-bin",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "index.html",
+            "size": 2963
+        },
+        {
+            "type": "-",
+            "name": "logo.png",
+            "size": 58118
+        },
+        {
+            "type": "d",
+            "name": "media",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "nav.html",
+            "size": 2192
+        }
+    ]
+}
