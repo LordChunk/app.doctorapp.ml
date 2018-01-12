@@ -1,0 +1,27 @@
+@import "colour";
+.main_menu {
+    > :nth-child(odd) {
+        background: $block2;
+    }
+    > :nth-child(even)
+    { 
+        background: $block1; 
+    }
+    .menu_block {
+        width: 100vw;
+        align-items: center;
+
+        > *, img {
+            margin: 0;
+        }
+        img {
+            width: auto;
+            margin-right: 11%;
+        }
+
+        h2 {
+            font-size: 3em;
+        }
+    }
+
+}
