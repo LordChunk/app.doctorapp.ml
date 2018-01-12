@@ -12,8 +12,8 @@ loadCss("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500");
 $(document).ready(function(){
     //Native JS
     loadJs("/media/js/src/smoothScroll.js");
-    loadJs("/media/js/src/nav.js");
-    loadJs("/media/js/src/ajaxPageLoader.js");
+    // loadJs("/media/js/src/nav.js");
+    // loadJs("/media/js/src/ajaxPageLoader.js");
     //loadJS("/media/js/src/main.js");
 });
 

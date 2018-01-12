@@ -35,6 +35,60 @@ body {
   overflow: hidden;
 }
 
+nav {
+  width: 100vw;
+  height: 10vh; 
+  background: white;
+}
+
+
+.main_menu {
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  
+  > * {
+    background: $block1;
+  }
+  
+  :nth-child(2), :nth-child(3), :nth-child(6) {
+    background: $block2;
+  }
+
+  .menu_block {
+    width: 50vw;
+    height: 26vh;
+
+    //Align center 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    h2 {
+      text-transform: uppercase;
+      font-size: large;
+      font-weight: 600;
+      background: unset;
+      margin-top: 0;
+
+      display: flex;
+      align-items: flex-end;
+    }
+    img {
+      width: 50%;
+      height: 50%;
+  
+      margin-top: 0.83em;
+  }
+  }
+}
+
+
+
+
+
+
+
 
 
 
