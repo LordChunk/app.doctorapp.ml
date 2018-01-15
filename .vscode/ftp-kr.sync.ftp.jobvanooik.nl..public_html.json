@@ -47,8 +47,18 @@
         },
         {
             "type": "-",
+            "name": "contact_doctor.html",
+            "size": 2044
+        },
+        {
+            "type": "-",
             "name": "favicon.ico",
             "size": 16958
+        },
+        {
+            "type": "-",
+            "name": "home_overlay.html",
+            "size": 2577
         },
         {
             "type": "-",
@@ -69,308 +79,7 @@
             "type": "d",
             "name": "media",
             "size": 4096,
-            "files": [
-                {
-                    "type": "d",
-                    "name": "images",
-                    "size": 0,
-                    "files": [
-                        {
-                            "type": "d",
-                            "name": "Icons",
-                            "size": 4096,
-                            "files": [
-                                {
-                                    "type": "-",
-                                    "name": "back.svg",
-                                    "size": 446
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "bacteria.svg",
-                                    "size": 5568
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "chat.svg",
-                                    "size": 1388
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "doctor.svg",
-                                    "size": 2182
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "hand.svg",
-                                    "size": 1585
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "health.svg",
-                                    "size": 1775
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "hospital.svg",
-                                    "size": 4984
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "patient-gray.svg",
-                                    "size": 1467
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "patient.svg",
-                                    "size": 1299
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "phone.svg",
-                                    "size": 2184
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "pill.svg",
-                                    "size": 886
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "plaster.svg",
-                                    "size": 1183
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "red-drop.svg",
-                                    "size": 846
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "send.svg",
-                                    "size": 446
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "video.svg",
-                                    "size": 989
-                                }
-                            ]
-                        },
-                        {
-                            "type": "d",
-                            "name": "icons",
-                            "size": 0,
-                            "files": [
-                                {
-                                    "type": "-",
-                                    "name": "back.svg",
-                                    "size": 446
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "bacteria.svg",
-                                    "size": 5568
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "chat.svg",
-                                    "size": 1388
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "doctor.svg",
-                                    "size": 2182
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "hand.svg",
-                                    "size": 1585
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "health.svg",
-                                    "size": 1775
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "hospital.svg",
-                                    "size": 4984
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "patient-gray.svg",
-                                    "size": 1661
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "patient.svg",
-                                    "size": 1299
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "phone.svg",
-                                    "size": 2184
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "pill.svg",
-                                    "size": 886
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "plaster.svg",
-                                    "size": 1183
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "red-drop.svg",
-                                    "size": 846
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "send.svg",
-                                    "size": 446
-                                },
-                                {
-                                    "type": "-",
-                                    "name": "video.svg",
-                                    "size": 989
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "type": "d",
-                    "name": "scss",
-                    "size": 0,
-                    "files": [
-                        {
-                            "type": "-",
-                            "name": "register3.scss",
-                            "size": 83
-                        },
-                        {
-                            "type": "-",
-                            "name": "register4.scss",
-                            "size": 355
-                        },
-                        {
-                            "type": "-",
-                            "name": "main.scss",
-                            "size": 7092
-                        }
-                    ]
-                },
-                {
-                    "type": "d",
-                    "name": "css",
-                    "size": 0,
-                    "files": [
-                        {
-                            "type": "-",
-                            "name": "colour.css",
-                            "size": 50
-                        },
-                        {
-                            "type": "-",
-                            "name": "colour.css.map",
-                            "size": 137
-                        },
-                        {
-                            "type": "-",
-                            "name": "footer.css",
-                            "size": 168
-                        },
-                        {
-                            "type": "-",
-                            "name": "footer.css.map",
-                            "size": 388
-                        },
-                        {
-                            "type": "-",
-                            "name": "index.css.map",
-                            "size": 344
-                        },
-                        {
-                            "type": "-",
-                            "name": "index.css",
-                            "size": 134
-                        },
-                        {
-                            "type": "-",
-                            "name": "login.css",
-                            "size": 156
-                        },
-                        {
-                            "type": "-",
-                            "name": "login.css.map",
-                            "size": 399
-                        },
-                        {
-                            "type": "-",
-                            "name": "main.css",
-                            "size": 3682
-                        },
-                        {
-                            "type": "-",
-                            "name": "main.css.map",
-                            "size": 5649
-                        },
-                        {
-                            "type": "-",
-                            "name": "register3.css",
-                            "size": 81
-                        },
-                        {
-                            "type": "-",
-                            "name": "register3.css.map",
-                            "size": 239
-                        },
-                        {
-                            "type": "-",
-                            "name": "register.css",
-                            "size": 613
-                        },
-                        {
-                            "type": "-",
-                            "name": "register.css.map",
-                            "size": 1192
-                        },
-                        {
-                            "type": "-",
-                            "name": "register2.css",
-                            "size": 187
-                        },
-                        {
-                            "type": "-",
-                            "name": "register2.css.map",
-                            "size": 397
-                        },
-                        {
-                            "type": "-",
-                            "name": "start.css",
-                            "size": 144
-                        },
-                        {
-                            "type": "-",
-                            "name": "start.css.map",
-                            "size": 348
-                        },
-                        {
-                            "type": "-",
-                            "name": "register4.css.map",
-                            "size": 541
-                        },
-                        {
-                            "type": "-",
-                            "name": "register4.css",
-                            "size": 283
-                        }
-                    ]
-                }
-            ]
+            "files": []
         },
         {
             "type": "-",
@@ -389,18 +98,13 @@
         },
         {
             "type": "-",
-            "name": "signup.html",
-            "size": 1177
-        },
-        {
-            "type": "-",
             "name": "register4.html",
             "size": 2155
         },
         {
             "type": "-",
-            "name": "home_overlay.html",
-            "size": 2077
+            "name": "signup.html",
+            "size": 1177
         }
     ]
 }
