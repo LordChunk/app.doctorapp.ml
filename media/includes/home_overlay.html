@@ -31,26 +31,36 @@
     </nav>
 	<main>
         <div class="main_menu">
-            <a class="menu_block" href="/nearby_hospitals/UMC" id="UMC">
-                <h2>Maastricht UMC+</h2>
+            <a class="menu_block" href="/contact_doctor">
+                <img src="/media/images/icons/doctor.svg" alt="Doctor Icon">
+                <h2>Contact doctor</h2>
             </a>
-            <a class="menu_block" href="#">
-                <h2>Catharina Ziekenhuis</h2>
+            <a class="menu_block" href="/chat_results">
+                <img src="/media/images/icons/health.svg" alt="Chat Icons">
+                <h2>Chat results</h2>
             </a>
-            <a class="menu_block" href="#">
-                <h2>Máxima Medisch Centrum</h2>
+            <a class="menu_block" href="/medical_profile">
+                <img src="/media/images/icons/patient.svg" alt="Patient Icons">
+                <h2>Medical profile</h2>
             </a>
-            <a class="menu_block" href="#">
-                <h2>ETZ Elisabeth</h2>
+            <a class="menu_block" href="/nearby_hospitals">
+                <img src="/media/images/icons/hospital.svg" alt="Hospital Icon">
+                <h2>Nearby hospitals</h2>
+            </a>
+            <a class="menu_block" href="/order_medicine">
+                <img src="/media/images/icons/pill.svg" alt="Pill Icon">
+                <h2>Order medicine</h2>
+            </a>
+            <a class="menu_block" href="/common_diseases">
+                <img src="/media/images/icons/bacteria.svg" alt="Bacteria Icon">
+                <h2>Common diseases</h2>
             </a>
         </div>
     </main>
-    <script>
-         $("body").on("click", "#UMC", function (event){
-            event.preventDefault();
-
-            $('main').load('/media/includes/umc');
-        });
-    </script>
+    <footer>
+        <a href="tel:EenEenTwee">
+                <h3>EMERGENCY</h3>
+        </a>
+    </footer>
 </body>
 </html>
