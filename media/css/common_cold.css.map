@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,IAAI,AAAC,CACD,UAAU,CCUA,OAAkB,CDVH,UAAU,CACtC,AAED,AAAA,CAAC,AAAC,CACE,KAAK,CCeG,OAAO,CDdf,OAAO,CAAE,KAAK,CACjB,AAED,AAAA,EAAE,CAAE,AAAA,EAAE,AAAC,CACH,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,GAAG,CACZ,UAAU,CCML,OAAO,CDLf",
+    "sources": [
+        "../scss/common_cold.scss",
+        "../scss/colour.scss"
+    ],
+    "names": [],
+    "file": "common_cold.css"
+}

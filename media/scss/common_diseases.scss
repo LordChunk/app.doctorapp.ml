@@ -1,0 +1,20 @@
+@import "colour";
+
+
+main {
+    background: $text_colour !important;
+}
+
+a  {
+    color: $text_colour;
+}
+
+h2, h3 {
+    margin: 0;
+    padding: 1em;
+    background:  $block1;
+}
+
+#odd {
+    background: $block2;
+}

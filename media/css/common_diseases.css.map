@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,IAAI,AAAC,CACD,UAAU,CCUA,OAAkB,CDVH,UAAU,CACtC,AAED,AAAA,CAAC,AAAE,CACC,KAAK,CCMK,OAAkB,CDL/B,AAED,AAAA,EAAE,CAAE,AAAA,EAAE,AAAC,CACH,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,GAAG,CACZ,UAAU,CCOL,OAAO,CDNf,AAED,AAAA,IAAI,AAAC,CACD,UAAU,CCIL,OAAO,CDHf",
+    "sources": [
+        "../scss/common_diseases.scss",
+        "../scss/colour.scss"
+    ],
+    "names": [],
+    "file": "common_diseases.css"
+}
