@@ -1,0 +1,84 @@
+@import "colour";
+
+main {
+    background: $text_colour;
+
+    p, li, h3 {
+        color: $text_grey;
+    }
+
+    > * {
+    background: $text_colour;
+    }
+    
+    h2 {
+        width: 100vw;
+        text-align: center;
+        background: $block1;
+        padding: .83em 0;
+        margin: 0;
+    }
+
+    .info {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        
+        img {
+            width: 120px;
+            height: auto;
+            border-radius: 100%;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+    }
+
+    .med_item {
+        display: flex;
+
+
+        * {
+            color: $text_colour;
+        }
+
+        p {
+            background: $block2;
+            width: 40%;
+            margin: 0;
+            padding: 1.4em 1em;
+        }
+
+        input {
+            width: 50%;
+            font-size: inherit;
+            margin: 0 5%;
+        }
+    }
+
+
+    input {
+        padding: 12px 1em;
+        border: 0;
+        color: $text_grey !important;
+        background: transparent;
+        border-bottom: 2px solid rgba(117, 117, 117, 0.5);
+	    transition: border-bottom 0.2s;
+    }
+
+    input:focus {
+        border: 0;
+        border-bottom: 2px solid $accent_colour_focus;
+        outline: none;
+      }
+} 
+
+.no_border {
+    border: none;
+}
+
+.no_border:hover {
+    border: none;
+}

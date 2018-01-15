@@ -38,9 +38,15 @@ body {
 nav {
   width: 100vw;
   height: 10vh; 
-  background: white;
+  background: $text_colour;
 }
 
+nav a {
+  height: 100%;
+  img {
+      height: 100%;
+  }
+}
 
 .main_menu {
   width: 100vw;

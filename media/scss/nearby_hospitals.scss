@@ -1,0 +1,64 @@
+@import "colour";
+
+.main_menu 
+{
+    > :nth-child(odd) {
+        background: $block2;
+    }
+
+    > :nth-child(even)
+    { 
+        background: $block1; 
+    }
+
+    .menu_block {
+        width: 100%;
+        height: auto;
+        color: inherit;
+        padding: 1em;
+
+        h2 {
+            margin: 0;
+        }
+    }
+}
+
+main {
+    background: $text_colour;
+}
+
+.hospital {
+    background: unset !important;
+    > div {
+        padding: 20px;
+    }
+
+    h2 {
+        margin: 0;
+        padding: 1em;
+        background: $block1;
+        color: $text_colour !important;
+    }
+
+    * {
+        color: $text_grey !important;
+    }
+
+    p {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .navigate {
+        display: block;
+        background-color: #5EC2A7;
+        border-radius: 50vw;
+        color: $text_colour !important;
+        font-size: x-large;
+        font-weight: bold;
+        padding: 12px 20px;
+        border: 0;
+        border-bottom: 2px solid rgba(117,117,117,0.5);
+        text-align: center;
+    }
+}
